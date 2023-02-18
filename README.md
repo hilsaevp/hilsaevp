@@ -1,6 +1,9 @@
-<h1>Hi there! :wave:</h1>
-
 <div align="center">
+
+![GitHub_Logo](https://user-images.githubusercontent.com/92876767/219822032-210a19a4-04c3-4c66-a6d4-1e5925ba4742.jpg)
+
+<h1>Welcome :wave:</h1>
+
 <img src="https://media2.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e471wuvhyc7s9wg6c4icta4makzpt0ofwrcckxrbf5z&rid=giphy.gif&ct=s" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 
